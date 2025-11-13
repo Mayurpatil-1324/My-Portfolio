@@ -13,7 +13,7 @@ import {
   User,
 } from "lucide-react";
 import { useTheme } from "../context/Theme/ThemeContext";
-import portfolio from "../assets/WhatsApp Image 2025-11-14 at 12.40.15 AM.jpeg";
+import portfolio from "../assets/img1.jpeg";
 
 const Connect = () => {
   const { theme } = useTheme();

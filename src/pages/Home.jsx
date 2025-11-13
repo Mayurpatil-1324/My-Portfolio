@@ -2,7 +2,7 @@ import React from "react";
 import { useTheme } from "../context/Theme/ThemeContext";
 import Typewriter from "typewriter-effect";
 import { FaLaptopCode, FaReact, FaPalette, FaCode, FaServer, FaBug, FaSearch } from "react-icons/fa";
-import profileImg from "../../../my-project/src/assets/WhatsApp Image 2025-11-14 at 12.40.15 AM.jpeg";
+import profileImg from "../assets/img1.jpeg";
 import { Link } from "react-router-dom";
 
 const Home = () => {
