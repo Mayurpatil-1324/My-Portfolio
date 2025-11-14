@@ -34,7 +34,7 @@ const Work = () => {
       title: "Portfolio Website",
       desc: "A modern personal portfolio showcasing skills, experience, and projects with Framer Motion animations and dark/light mode support.",
       img: portfolioImg,
-      live: "#",
+      live: "https://mayur-portfolio-eight.vercel.app/",
       git: "#",
       tech: ["React.js", "Tailwind CSS", "Framer Motion", "Next.js"],
     },
